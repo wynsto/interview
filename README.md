@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-[Welcome file](/../Welcome%20file)
+[Welcome file](/interview/Welcome%20file)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDgwNzA1ODJdfQ==
+eyJoaXN0b3J5IjpbLTEwNDE3NTI4ODldfQ==
 -->
